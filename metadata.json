@@ -1,0 +1,6 @@
+{
+  "name": "VolleyTool",
+  "description": "Offline-first Volleyball Tool für Beach- und Hallenvolleyball mit Teammixer, Scoreboard, Turnier, Taktikboard und Coin Toss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
